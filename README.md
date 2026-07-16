@@ -74,103 +74,8 @@ Java Backend Developer • Spring Boot Developer • AI Enthusiast
 </p>
 
 ### Analytics
+
 - Power BI - Microsoft Excel
-
----
-
-# 🌟 Featured Project
-
-# 🏥 AI-Based Patient Flow Prediction & Hospital Resource Management System
-
-An AI-powered healthcare platform that predicts patient inflow and intelligently manages hospital resources including beds, doctors, ICUs, ambulances, and emergency cases.
-
-The project combines Machine Learning with Java Spring Boot to improve hospital efficiency, reduce overcrowding, and support better resource planning.
-
-## 🚀 Key Features
-
-- 🤖 AI-Based Patient Flow Prediction
-- 🏥 Multi-Hospital Management
-- 🛏 Smart Bed Allocation
-- 👨‍⚕ Doctor Scheduling
-- 🚑 Ambulance Management
-- 📊 Resource Monitoring Dashboard
-- 🔐 JWT Authentication
-- 👥 Role-Based Access Control
-- 🌐 RESTful APIs
-- 📈 Real-Time Resource Tracking
-
-## 🛠 Tech Stack
-
-`Java`
-
-`Spring Boot`
-
-`Spring Security`
-
-`Hibernate`
-
-`JPA`
-
-`MySQL`
-
-`JWT`
-
-`REST API`
-
-`Machine Learning`
-
-`Random Forest`
-
-`LSTM`
-
-`Genetic Algorithm`
-
-`Reinforcement Learning`
-
-🔗 Repository
-
-https://github.com/Madhusudhananr1711/AI-Patient-flow-prediction-and-Hospital-Management-System
-
----
-
-# 📂 Other Projects
-
-## 🎓 Course Enrollment Management System
-
-A secure backend application for managing university course registration using Spring Boot and JWT Authentication.
-
-### Features
-
-- Student & Admin Roles
-- JWT Authentication
-- CRUD Operations
-- REST APIs
-- Validation
-- Exception Handling
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Hibernate` `JPA` `MySQL`
-
-Repository
-
-https://github.com/Madhusudhananr1711/Course-Enrollment-Management-System
-
----
-
-## 📊 Supermarket Sales Analytics Dashboard
-
-Interactive Power BI dashboard that visualizes business performance, customer trends, and sales insights.
-
-**Tech Stack**
-
-`Power BI`
-
-`Excel`
-
-`SQL`
-
----
 
 # 📈 GitHub Statistics
 
@@ -211,19 +116,6 @@ Interactive Power BI dashboard that visualizes business performance, customer tr
 <img src="https://github-profile-trophy.vercel.app/?username=Madhusudhananr1711&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
-
----
-
-# 📖 Currently Learning
-
-- Advanced Spring Security
-- Docker
-- AWS Cloud
-- Kubernetes
-- Microservices
-- System Design
-- Artificial Intelligence
-- Data Structures & Algorithms
 
 ---
 
