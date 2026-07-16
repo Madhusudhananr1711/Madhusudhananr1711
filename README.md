@@ -25,15 +25,6 @@ Java Backend Developer • Spring Boot Developer • AI Enthusiast
 
 🏥 Creator of an AI-powered Hospital Resource Management System designed to predict patient inflow and optimize hospital resources.
 
-🌱 Currently learning
-
-- System Design
-- Docker
-- AWS
-- Microservices
-- Kubernetes
-- AI Engineering
-
 🎯 My goal is to build software that solves real-world problems through scalable backend systems and AI.
 
 ---
@@ -83,9 +74,7 @@ Java Backend Developer • Spring Boot Developer • AI Enthusiast
 </p>
 
 ### Analytics
-
-- Power BI
-- Microsoft Excel
+- Power BI - Microsoft Excel
 
 ---
 
@@ -266,4 +255,13 @@ If you like my projects, consider giving them a ⭐.
 
 Let's build something impactful together! 🚀
 
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<h3 align="center">"The best way to predict the future is to build it."</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
