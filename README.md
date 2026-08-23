@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Madhu Sudhanan R</h1>
 
+<h3 align="center">
+Java Backend Developer • Spring Boot Developer • AI Enthusiast
+</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Madhusudhananr1711's GitHub profile" src="light_mode.svg"
 </picture>
-
-<h3 align="center">
-Java Backend Developer • Spring Boot Developer • AI Enthusiast
-</h3>
-
+  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+Developer;AI+Healthcare+Application+Developer;Always+Learning+New+Technologies"/>
 </p>
