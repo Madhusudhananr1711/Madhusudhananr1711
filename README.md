@@ -83,27 +83,6 @@ Java Backend Developer • Spring Boot Developer • AI Enthusiast
 
 - Power BI - Microsoft Excel
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhusudhananr1711&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudhananr1711&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusudhananr1711&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -115,27 +94,7 @@ Java Backend Developer • Spring Boot Developer • AI Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhusudhananr1711&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become an AI Engineer
-- ✅ Master Spring Boot
-- ✅ Build Production-Ready Backend Applications
-- ✅ Learn Cloud & DevOps
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Products
-- ✅ Strengthen System Design Skills
-
----
 
 # 💡 Favorite Quote
 
