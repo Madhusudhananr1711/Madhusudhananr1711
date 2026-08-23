@@ -71,6 +71,7 @@ Java Backend Developer • Spring Boot Developer • AI Enthusiast
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=postgresql"/>
 </p>
 
 ### Tools & Technologies
